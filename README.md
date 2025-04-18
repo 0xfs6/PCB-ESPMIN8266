@@ -27,6 +27,5 @@ The PCB was designed using [KiCad](https://kicad.org/) and includes:
 
 ## Images
 
-```markdown
-![Front View](https://raw.githubusercontent.com/0xfs6/PCB-ESPMIN8266/refs/heads/main/IMG_9346.PNG)
-![Back View](https://raw.githubusercontent.com/0xfs6/PCB-ESPMIN8266/refs/heads/main/image.png)
+![Front View](https://raw.githubusercontent.com/0xfs6/PCB-ESPMIN8266/main/IMG_9346.PNG)
+![Back View](https://raw.githubusercontent.com/0xfs6/PCB-ESPMIN8266/main/image.png)
